@@ -1,5 +1,4 @@
-n1 = 5
-n2 = 10
-soma = n1 + n2 
+def soma(n1, n2):
+    return n1 + n2
 
-print(soma)
+soma(5,10)
